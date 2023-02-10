@@ -1,0 +1,3 @@
+class vendedor  extends funcionario {
+    
+}
